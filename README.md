@@ -59,7 +59,6 @@ endmodule
 ![image](https://github.com/Pavan-Gv/Experiment--02-Implementation-of-combinational-logic-/assets/94827772/391d65f7-57f6-4d83-9210-85882fe3eef6)
 
 ## Output:
-#### RTL:
 ![image](https://github.com/Pavan-Gv/Experiment--02-Implementation-of-combinational-logic-/assets/94827772/b18445cf-e7d9-4c3d-bfde-af2bd100c5a7)
 
 ## Result:
